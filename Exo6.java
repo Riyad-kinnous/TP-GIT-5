@@ -10,7 +10,7 @@ public class Exo6 {
         int nombre = sc.nextInt();
         boolean estPr= estPremier(nombre);
         if(estPr){
-            System.out.println(nombre+" est premier");
+            System.out.println(nombre+" est RYAD");
             }
         else{
             System.out.println(nombre+" n est pas premier");
@@ -30,3 +30,4 @@ public class Exo6 {
   
 }
 //j'ai modifié ton code 
+//
