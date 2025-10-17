@@ -29,3 +29,4 @@ public class Exo6 {
    }
   
 }
+//j'ai modifié ton code 
